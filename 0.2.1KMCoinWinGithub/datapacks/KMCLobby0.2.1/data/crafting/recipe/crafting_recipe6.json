@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+		"pattern": [
+		"###",
+		"###",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:cod"
+		}
+	},
+	"result": {
+		"id": "minecraft:poisonous_potato",
+		"count": 3
+	}
+}

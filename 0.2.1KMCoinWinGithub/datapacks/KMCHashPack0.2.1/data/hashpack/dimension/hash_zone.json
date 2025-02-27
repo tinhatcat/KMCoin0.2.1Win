@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:overworld_caves",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+	"disable_mob_generation": true,
+      "lakes": false,
+	"dimension": ["hashpack:hash_zone"],
+      "features": false,
+	"fixed_time": 6000,
+	"ambient_light": 1,
+	"monster_spawn_light_level:": 0,
+	"monster_spawn_block_light_limit:": 0,
+      "layers": [],
+      "structure_overrides": []
+    }
+  }
+}
